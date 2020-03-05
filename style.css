@@ -1,0 +1,29 @@
+.bg {
+  background-color: #00000088!important;
+}
+
+.bg-1 {
+  background-color: #00000088!important;
+  background: url(https://images.wallpaperscraft.ru/image/gory_vershiny_ozero_117046_1920x1080.jpg) 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-2 {
+  background-color: #00000088!important;
+  background-image: url(https://dit.urfu.ru/fileadmin/user_upload/site_15560/blog/programmer1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.py-20 {
+  padding-top: 20rem!important;
+  padding-bottom: 20rem!important;
+}
+
+.py-7 {
+  padding-top: 7rem!important;
+  padding-bottom: 7rem!important;
+}

@@ -1,0 +1,18 @@
+git init
+Создать файл ".gitignore"
+В нём прописать:
+  **/*.sass
+  bin/
+  admin/
+  config/
+
+git add .
+git commit -m 'First add files'
+git branch blog
+git checkout blog
+Создаём папку blog с файлами index.js, index.html
+git add .
+git commit -m 'add blog/'
+git checkout master
+git remote add origin https://github.com/xt3000/gitTest.git
+git push -u origin master
